@@ -1,0 +1,21 @@
+.trend {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 10px;
+}
+.trends {
+    width: 100%;
+}
+h5 {
+    margin: 0;
+    margin-top: 5px;
+}
+p {
+    margin: 0;
+    margin-top: 5px;
+}
+.gray {
+    color:gray;
+}

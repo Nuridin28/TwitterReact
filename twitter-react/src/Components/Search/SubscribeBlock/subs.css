@@ -1,0 +1,18 @@
+.subscribe-block {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #658cf6;
+    border-radius: 24px;
+}
+
+.btn {
+    color:white;
+    border:0;
+    padding: 8px 10px;
+    background-color: #104cad;
+    border-radius:40px
+}
+.btn:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
