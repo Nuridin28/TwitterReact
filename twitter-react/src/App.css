@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color:black
+}
+.df {
+  display: flex;
+}
+.btn-primary {
+  border:0;
+  background-color: #075278;
+  border-radius: 16px;
+  padding: 10px 20px;
+  color:#fff;
+}
+
+*:focus {
+  outline: none;
+}

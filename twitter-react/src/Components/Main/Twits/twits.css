@@ -1,0 +1,15 @@
+.twit-input {
+    border: 0;
+    font-size: 1.75em;
+}
+.new-twit-form {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.tablist {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 5px;
+}

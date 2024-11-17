@@ -1,0 +1,17 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding:10px 40px;
+    width:25%
+}
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.menu-item:hover {
+    background-color: #b9b9b9;
+    border-radius:25px;
+    transform: scale(1.1);
+}

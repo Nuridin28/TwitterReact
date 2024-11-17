@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    border-bottom:1px solid gray;
+    padding: 10px;
+}
+.header_section{
+    text-align: center;
+    width: 50%;
+}
+.header_section:hover{
+    text-decoration: underline;
+}
+.content {
+    margin-top: 0;
+    width: 50%;
+    border:1px solid gray;
+    border-bottom:0
+}
+.btn-primary {
+    margin:5px;
+}
+.btn-primary:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
